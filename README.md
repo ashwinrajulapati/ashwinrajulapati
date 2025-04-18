@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwinrajulapati
+- 👋 Hi, I’m @ashwinr
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on Java
